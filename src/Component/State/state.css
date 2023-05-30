@@ -1,0 +1,375 @@
+@media screen and (min-width: 1440px) {
+    .state_card {
+        width: 264px;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        height: 336px;
+        margin: 30px;
+        display: inline-block;
+    }
+
+    .state_img {
+        width: 264px;
+        height: 160px;
+        margin-top: 0%;
+    }
+
+    .state_heading {
+        color: black;
+        font-size: 24px;
+        margin-left: 9.09%;
+        font-weight: 700;
+        margin-top: 10%;
+    }
+
+    .population_info {
+        margin-left: 9.09%;
+    }
+
+    .state_population {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .population_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .region_info {
+        margin-left: 9.09%;
+    }
+
+    .state_region {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .region_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .capital_info {
+        margin-left: 9.09%;
+    }
+
+    .state_capital {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .capital_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 1440px) {
+    .state_card {
+        width: 264px;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        height: 336px;
+        margin: 30px;
+        display: inline-block;
+    }
+
+    .state_img {
+        width: 264px;
+        height: 160px;
+        margin-top: 0%;
+    }
+
+    .state_heading {
+        color: black;
+        font-size: 24px;
+        margin-left: 9.09%;
+        font-weight: 700;
+        margin-top: 10%;
+    }
+
+    .population_info {
+        margin-left: 9.09%;
+    }
+
+    .state_population {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .population_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .region_info {
+        margin-left: 9.09%;
+    }
+
+    .state_region {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .region_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .capital_info {
+        margin-left: 9.09%;
+    }
+
+    .state_capital {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .capital_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .state_card {
+        width: 270px;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        height: 332px;
+        margin: 20px;
+        display: inline-block;
+    }
+
+    .state_img {
+        width: 270px;
+        height: 166px;
+        margin-top: 0%;
+    }
+
+    .state_heading {
+        color: black;
+        font-size: 24px;
+        margin-left: 9.09%;
+        font-weight: 700;
+        margin-top: 10%;
+    }
+
+    .population_info {
+        margin-left: 9.09%;
+    }
+
+    .state_population {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .population_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .region_info {
+        margin-left: 9.09%;
+    }
+
+    .state_region {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .region_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .capital_info {
+        margin-left: 9.09%;
+    }
+
+    .state_capital {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .capital_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 768px) {
+    .state_card {
+        width: 310px;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        height: 372px;
+        margin: 15px;
+        display: inline-block;
+    }
+
+    .state_img {
+        width: 310px;
+        height: 206px;
+        margin-top: 0%;
+    }
+
+    .state_heading {
+        color: black;
+        font-size: 24px;
+        margin-left: 9.09%;
+        font-weight: 700;
+        margin-top: 10%;
+    }
+
+    .population_info {
+        margin-left: 9.09%;
+    }
+
+    .state_population {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .population_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .region_info {
+        margin-left: 9.09%;
+    }
+
+    .state_region {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .region_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .capital_info {
+        margin-left: 9.09%;
+    }
+
+    .state_capital {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .capital_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 425px) {
+    .state_card {
+        width: 350px;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        height: 412px;
+        margin: 25px;
+        display: inline-block;
+    }
+
+    .state_img {
+        width: 350px;
+        height: 246px;
+        margin-top: 0%;
+    }
+
+    .state_heading {
+        color: black;
+        font-size: 24px;
+        margin-left: 9.09%;
+        font-weight: 700;
+        margin-top: 10%;
+    }
+
+    .population_info {
+        margin-left: 9.09%;
+    }
+
+    .state_population {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .population_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .region_info {
+        margin-left: 9.09%;
+    }
+
+    .state_region {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .region_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .capital_info {
+        margin-left: 9.09%;
+    }
+
+    .state_capital {
+        font-size: 14px;
+        color: black;
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .capital_number {
+        color: black;
+        font-size: 14px;
+        margin: 0;
+    }
+}

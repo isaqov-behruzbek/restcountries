@@ -1,0 +1,23 @@
+.Card_img{
+    width: 559.71px;
+    height: 483.17px;
+}
+.Card_info{
+    margin-left: 100px;
+}
+.CardRight{
+    width: 200px;
+}
+    .CardRight, .CardLeft{
+    align-items: start;
+}
+.card_heading{
+    font-size: 32px;
+    font-weight: 700;
+}
+.region_number{
+    margin-left: 10px;
+}
+.CardLeft{
+    width: 300px;
+}

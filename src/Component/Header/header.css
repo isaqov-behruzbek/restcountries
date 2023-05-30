@@ -1,0 +1,19 @@
+.item{
+    list-style: none;
+}
+.header{
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0562443);
+}
+.DarkMode_btn p {
+    margin: 0;
+    padding: 20px;
+    padding-left: 5px;
+}
+
+.DarkMode_btn {
+    display: flex;
+    border: none;
+    background-color: transparent;
+    align-items: center;
+}
